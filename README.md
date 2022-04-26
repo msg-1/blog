@@ -1,3 +1,3 @@
 # Blog
 
-https://blog-chaitanya.herokuapp.com/
+https://blog-latest-msg.herokuapp.com/
